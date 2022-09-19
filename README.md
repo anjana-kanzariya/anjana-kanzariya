@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjana-kanzariya
-- 👀 I’m interested in all types of programming. Not knowing a language/ technology doesn't matter.
+- 👀 I’m interested in backend programming. Not knowing a language/ technology doesn't matter.
 - 🌱 I’m currently learning GTP 3 applications. I was recently introduced to it and it's fun. Will be posting my work.
 - 💞️ I’m looking to collaborate on coding challenges, WordPress development, PHP development and anything that can interest me.
 - 📫 How to reach me? anjanajkanzariya@gmail.com
