@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anjana-kanzariya
-- 👀 I’m interested in backend programming. Not knowing a language/ technology doesn't matter.
-- 🌱 I’m currently learning GTP 3 applications. I was recently introduced to it and it's fun. Will be posting my work.
-- 💞️ I’m looking to collaborate on coding challenges, WordPress development, PHP development and anything that can interest me.
-- 📫 How to reach me? anjanajkanzariya@gmail.com
+- 👋 Hi, I’m @anjana-kanzariya  
+- 👩‍💻 Backend-focused developer with 10+ years of experience in PHP, WordPress, and WooCommerce.  
+- 🧠 I enjoy building clean, reliable systems and solving problems beyond surface-level fixes.
+- 🤝 Happy to collaborate on WordPress plugins, APIs, performance optimization, and real-world coding challenges.  
+- 📫 Contact: anjanajkanzariya@gmail.com 
 
 <!---
 anjana-kanzariya/anjana-kanzariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
